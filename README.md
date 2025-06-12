@@ -1,13 +1,3 @@
-# 👋 Hi, I’m Rahul Saha
-
-🎓 MS in Business Analytics @ George Washington University  
-📍 Falls Church, VA | 🇧🇩 Originally from Bangladesh  
-💼 Growth & Strategy | Ad Tech | Analytics | ML Enthusiast  
-
----
-
-## 🚀 About Me
-
 Data-driven professional with 6+ years in ad tech, analytics, and business strategy. I’ve helped scale programmatic platforms, improve campaign performance, and build tools for tracking, optimization, and fraud detection. Currently enhancing my expertise in machine learning, time series forecasting, and responsible AI.
 
 ---
