@@ -43,10 +43,3 @@ Data-driven professional with 6+ years in ad tech, analytics, and business strat
 - Edge Academy – The Trade Desk  
 
 ---
-
-## 🌐 Let’s Connect
-
-🔗 [LinkedIn](https://linkedin.com/in/rahul-saha-sony)  
-📧 rahul.sony.bd@gmail.com  
-🌍 [Portfolio](https://rahulsahasony.github.io)  
-📦 [GitHub](https://github.com/rahulsahasony)
