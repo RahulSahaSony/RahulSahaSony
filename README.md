@@ -1,3 +1,4 @@
+# 👋 Hi, I'm Rahul Saha
 ##  👨🏻‍💻 About Me
 Data-driven professional with 6+ years in ad tech, analytics, and business strategy. I’ve helped scale programmatic platforms, improve campaign performance, and build tools for tracking, optimization, and fraud detection. Currently enhancing my expertise in machine learning, time series forecasting, and responsible AI.
 
@@ -30,11 +31,9 @@ Data-driven professional with 6+ years in ad tech, analytics, and business strat
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=rahulsahasony&style=flat-square&color=blue)
 
----
-### 📫 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/rahulsahasony) 
+## 📫 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/rahul-saha-sony)
 [![Email](https://img.shields.io/badge/-Email-white?logo=gmail&style=flat-square)](mailto:rahulsahasony@gmail.com)
-
-
-
+[![Resume](https://img.shields.io/badge/Resume-Download-blue?logo=adobeacrobatreader&style=flat-square)](https://github.com/rahulsahasony/rahulsahasony/raw/main/Rahul_Saha_Resume.pdf)
