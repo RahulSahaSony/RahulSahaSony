@@ -36,4 +36,4 @@ Data-driven professional with 6+ years in ad tech, analytics, and business strat
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/rahul-saha-sony)
 [![Email](https://img.shields.io/badge/-Email-white?logo=gmail&style=flat-square)](mailto:rahulsahasony@gmail.com)  
-[![Resume](https://img.shields.io/badge/Download%20My-Resume-oragne?logo=adobeacrobatreader&style=flat-square)](https://github.com/rahulsahasony/rahulsahasony/raw/main/Rahul_Saha_Resume.pdf)
+[![Resume](https://img.shields.io/badge/Download%20My-Resume-oragne?logo=adobeacrobatreader&style=flat-square)](https://github.com/rahulsahasony/rahulsahasony/raw/main/Resume_Rahul.pdf)
