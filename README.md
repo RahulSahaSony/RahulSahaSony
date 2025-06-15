@@ -1,6 +1,5 @@
+##  👨🏻‍💻 About Me
 Data-driven professional with 6+ years in ad tech, analytics, and business strategy. I’ve helped scale programmatic platforms, improve campaign performance, and build tools for tracking, optimization, and fraud detection. Currently enhancing my expertise in machine learning, time series forecasting, and responsible AI.
-
----
 
 ## 💼 Experience
 
