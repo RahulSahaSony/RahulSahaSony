@@ -26,14 +26,6 @@ Data-driven professional with 6+ years in ad tech, analytics, and business strat
 **Libraries:** scikit-learn, pandas, matplotlib, H2O  
 **Ad Tech:** Beachfront, SpringServe, Bidscube, SmartHub  
 
-## 📚 Certifications
-
-- Python for Data Science – IBM  
-- Elements of AI – Helsinki  
-- Google Analytics  
-- Data Visualization – CFI  
-- Edge Academy – The Trade Desk  
-
 ## 🔥 My Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=rahulsahasony&theme=ambient_gradient)  
