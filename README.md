@@ -36,6 +36,5 @@ Data-driven professional with 6+ years in ad tech, analytics, and business strat
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/rahulsahasony) 
 [![Email](https://img.shields.io/badge/-Email-white?logo=gmail&style=flat-square)](mailto:rahulsahasony@gmail.com)
 
-<img src="https://github.com/rahulsahasony/rahulsahasony/blob/main/banner.png" width="40%">
 
 
