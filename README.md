@@ -26,10 +26,7 @@ Data-driven professional with 6+ years in ad tech, analytics, and business strat
 
 ## 🔧 Skills
 
-**Languages:** ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
-  
+**Languages:** Python, R, SQL
 **Tools:** Streamlit, Excel, Sheets, PostgreSQL, AWS (basic)  
 **Libraries:** scikit-learn, pandas, matplotlib, H2O  
 **Ad Tech:** Beachfront, SpringServe, Bidscube, SmartHub  
