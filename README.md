@@ -26,7 +26,7 @@ Data-driven professional with 6+ years in ad tech, analytics, and business strat
 
 ## 🔧 Skills
 
-**Languages:** Python, R, SQL
+**Languages:** Python, R, SQL  
 **Tools:** Streamlit, Excel, Sheets, PostgreSQL, AWS (basic)  
 **Libraries:** scikit-learn, pandas, matplotlib, H2O  
 **Ad Tech:** Beachfront, SpringServe, Bidscube, SmartHub  
@@ -43,11 +43,10 @@ Data-driven professional with 6+ years in ad tech, analytics, and business strat
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsahasony&layout=compact)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=rahulsahasony&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=rahulsahasony&theme=ambient_gradient)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulsahasony&theme=ambient_gradient&show_icons=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsahasony&theme=ambient_gradient)  
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=rahulsahasony&style=flat-square&color=blue)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulsahasony&theme=ambient_gradient&show_icons=true)
 
