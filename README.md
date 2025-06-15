@@ -17,7 +17,6 @@ Data-driven professional with 6+ years in ad tech, analytics, and business strat
 
 ## 🧪 Projects
 
-- **Ad Insight Bot** – AI tool for analyzing ad reports and insights  
 - **Capital Bikeshare Forecasting** – ARIMA & Holt-Winters models in R  
 - **Mortgage Fairness Classifier** – Explainable ML with EBM & GLM  
 - **NBA Shot Analysis** – SQL + dashboards for performance insights  
