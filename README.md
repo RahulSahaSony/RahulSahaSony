@@ -13,8 +13,6 @@ Data-driven professional with 6+ years in ad tech, analytics, and business strat
 - **Senior Analyst – Quantanite**  
   Led data processing tasks: content moderation, CRM, and analytics.
 
----
-
 ## 🧪 Projects
 
 - **Capital Bikeshare Forecasting** – ARIMA & Holt-Winters models in R  
@@ -22,16 +20,12 @@ Data-driven professional with 6+ years in ad tech, analytics, and business strat
 - **NBA Shot Analysis** – SQL + dashboards for performance insights  
 - **IPO Decision Modeling** – Monte Carlo and scenario planning
 
----
-
 ## 🔧 Skills
 
 **Languages:** Python, R, SQL  
 **Tools:** Streamlit, Excel, Sheets, PostgreSQL, AWS (basic)  
 **Libraries:** scikit-learn, pandas, matplotlib, H2O  
 **Ad Tech:** Beachfront, SpringServe, Bidscube, SmartHub  
-
----
 
 ## 📚 Certifications
 
@@ -41,12 +35,18 @@ Data-driven professional with 6+ years in ad tech, analytics, and business strat
 - Data Visualization – CFI  
 - Edge Academy – The Trade Desk  
 
----
+## 🔥 My Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=rahulsahasony&theme=ambient_gradient)  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulsahasony&theme=ambient_gradient&show_icons=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsahasony&theme=ambient_gradient)  
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=rahulsahasony&style=flat-square&color=blue)
+
+---
+### 📫 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/rahulsahasony) 
+[![Email](https://img.shields.io/badge/-Email-white?logo=gmail&style=flat-square)](mailto:rahulsahasony@gmail.com)
 
 
