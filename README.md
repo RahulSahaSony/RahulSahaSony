@@ -1,5 +1,8 @@
 # Hi <img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="40"> I'm Rahul
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFCC00&width=435&separator=%3C&lines=Success+doesn%E2%80%99t+come+in+a+rush;+it+walks+with+patience+and+persistence.)](https://git.io/typing-svg)
+
+<p>
+    <img src="https://readme-typing-svg.demolab.com?font=Gloria+Hallelujah&duration=3000&pause=2000&color=ffc502&vCenter=true&random=false&width=800&lines=If+you+want+to+master+something,+teach+it.+-+Richard+Feynman" alt="Favourite Quote"/>
+</p>
 ##  👨🏻‍💻 About Me
 Data-driven professional with 6+ years in ad tech, analytics, and business strategy. I’ve helped scale programmatic platforms, improve campaign performance, and build tools for tracking, optimization, and fraud detection. Currently enhancing my expertise in machine learning, time series forecasting, and responsible AI.
 
