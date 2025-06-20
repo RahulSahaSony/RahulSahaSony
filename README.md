@@ -3,7 +3,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=FFCC00&center=true&vCenter=true&random=false&width=800&lines=If+you+want+to+master+something,+teach+it.+-+Richard+Feynman" alt="Developer Quote"/>
 </p>
 
-
 ##  👨🏻‍💻 About Me
 Data-driven professional with 6+ years in ad tech, analytics, and business strategy. I’ve helped scale programmatic platforms, improve campaign performance, and build tools for tracking, optimization, and fraud detection. Currently enhancing my expertise in machine learning, time series forecasting, and responsible AI.
 
