@@ -29,7 +29,6 @@ Data-driven professional with 6+ years in ad tech, analytics, and business strat
 **Ad Tech:** Beachfront, SpringServe, Bidscube, SmartHub  
 
 ## 🔥 My Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=rahulsahasony&theme=ambient_gradient)  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulsahasony&theme=ambient_gradient&show_icons=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsahasony&theme=ambient_gradient)  
 
