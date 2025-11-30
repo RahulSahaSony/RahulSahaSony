@@ -28,9 +28,6 @@ Data-driven professional with 6+ years in ad tech, analytics, and business strat
 **Libraries:** scikit-learn, pandas, matplotlib, H2O  
 **Ad Tech:** Beachfront, SpringServe, Bidscube, SmartHub  
 
-## 🔥 My Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulsahasony&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsahasony)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=rahulsahasony&style=flat-square&color=blue)
 
