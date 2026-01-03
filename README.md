@@ -4,7 +4,7 @@
 </p>
 
 ##  👨🏻‍💻 About Me
-Analytics and machine learning professional with 6+ years of experience across ad tech, operations, and growth strategy, recently complemented by a Master’s in Business Analytics.
+Analytics and machine learning professional with 7+ years of experience across ad tech, operations, and growth strategy, recently complemented by a Master’s in Business Analytics.
 
 I’ve worked at the intersection of business and data — scaling programmatic revenue, building ad operations infrastructure, and developing analytical solutions for forecasting, fairness, and decision-making. Most recently, I supported budgeting, analytics, and large-scale global event operations at the International Monetary Fund (IMF).
 
