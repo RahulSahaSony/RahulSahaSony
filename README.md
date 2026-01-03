@@ -11,26 +11,37 @@ I’ve worked at the intersection of business and data — scaling programmatic 
 My interests include applied machine learning, time series forecasting, explainable AI, and data-driven decision systems.
 
 ## 💼 Experience
-- **Growth & Strategy Lead – Adferry**  
-  Built the company’s platform, processes, and brand. Led ad ops, finance, and strategy.
+- **International Monetary Fund (IMF)** — Analytics & Budget Support (Extern)  
+  Supported $3M+ event budgeting, compliance documentation, and analytics for global meetings.
 
-- **Operations Manager – Wonderlo Inc**  
-  Helped build ad server and scaled revenue. Managed 50+ partner campaigns.
+- **Adferry** — Founding Team, Growth & Strategy Lead  
+  Led cross-functional initiatives across ad tech, finance, and operations; scaled programmatic revenue and built the company’s platform and brand.
 
-- **Senior Analyst – Quantanite**  
-  Led data processing tasks: content moderation, CRM, and analytics.
+- **Wonderlo Inc** — Operations Manager  
+  Launched ad server infrastructure, managed 50+ partners, and scaled RTB revenue through analytics, experimentation, and fraud detection.
 
-## 🧪 Projects
-- **Capital Bikeshare Forecasting** – ARIMA & Holt-Winters models in R  
-- **Mortgage Fairness Classifier** – Explainable ML with EBM & GLM  
-- **NBA Shot Analysis** – SQL + dashboards for performance insights  
-- **IPO Decision Modeling** – Monte Carlo and scenario planning
+- **Quantanite** — Senior Analyst  
+  Led data processing, analytics workflows, and client-facing reporting initiatives.
 
-## 🔧 Skills
+## 🧪 Selected Projects
+- **LaborIQ — AI Career Intelligence Assistant**  
+  RAG-based system combining structured labor-market data with LLMs to deliver salary benchmarks, skill gaps, and career insights.
+
+- **Explainable ML for Mortgage Fairness**  
+  Built interpretable models (EBM, GLM) on 180K+ records to improve predictive performance while reducing demographic bias.
+
+- **Capital Bikeshare Demand Forecasting**  
+  Time series forecasting using Holt-Winters and ARIMA with rigorous diagnostics in R.
+
+- **SupplyGuard — AI Beyond Defense**  
+  Multimodal AI tool to help policymakers assess supply-chain concentration risk and non-military security threats.
+
+## 🔧 Tech Stack
 **Languages:** Python, R, SQL  
-**Tools:** Streamlit, Excel, Sheets, PostgreSQL, AWS (basic)  
-**Libraries:** scikit-learn, pandas, matplotlib, H2O  
-**Ad Tech:** Beachfront, SpringServe, Bidscube, SmartHub  
+**Visualization:** Power BI, Tableau, Matplotlib, Excel (Advanced), Google Sheets, PowerPoint  
+**Machine Learning:** Linear Regression, Logistic Regression, Decision Trees, SVM, KNN, BERT, LSTM  
+**Other Tools:** Microsoft 365, Google Workspace, AWS (basic), GitHub, Grafana, QuickBooks, Canva, Figma  
+  
 
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=rahulsahasony&style=flat-square&color=blue)
