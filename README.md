@@ -37,7 +37,7 @@ My interests include applied machine learning, time series forecasting, explaina
   Multimodal AI tool to help policymakers assess supply-chain concentration risk and non-military security threats.
 
 ## 🔧 Tech Stack
-**Languages:** Python, R, SQL  
+**Languages:** Python, R, SQL, HTML/CSS  
 **Visualization:** Power BI, Tableau, Matplotlib, Excel (Advanced), Google Sheets, PowerPoint  
 **Machine Learning:** Linear Regression, Logistic Regression, Decision Trees, SVM, KNN, BERT, LSTM  
 **Other Tools:** Microsoft 365, Google Workspace, AWS (basic), GitHub, Grafana, QuickBooks, Canva, Figma  
